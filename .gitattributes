@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Large files
+path/to/large/file filter=lfs diff=lfs merge=lfs -text

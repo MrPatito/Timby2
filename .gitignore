@@ -1,0 +1,23 @@
+# .gitignore
+
+# Ignore Python virtual environments
+venv/
+.env/
+Modelos basura
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore logs
+*.log
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore other common files
+*.DS_Store
+*.egg-info/
+dist/
+build/
